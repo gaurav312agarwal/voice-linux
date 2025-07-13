@@ -47,7 +47,3 @@ Speak your Linux command naturally, and the AI will suggest the appropriate shel
 - All commands require user confirmation before execution
 - The AI is programmed to reject unsafe or ambiguous commands
 - Commands are displayed before execution for review
-
-## License
-
-MIT License 
